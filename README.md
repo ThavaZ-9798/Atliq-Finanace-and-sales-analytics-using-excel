@@ -8,14 +8,14 @@ they are manufacturing the Mouse, keyboard , notebooks etc
 
 ## Sales Analytics
  - In the sales analytics we just analyze the net sales for customer level performance for  the year of 2019,2020,2021 and 21vs20
- -  Here I just attach the file of the analyis 
+ -  Here I just attach the file of the analyis https://github.com/ThavaZ-9798/Atliq-Finanace-and-sales-analytics-using-excel/blob/main/Customer%20net%20sales%20performance%20India.pdf
  - After that we analyze the same data with the market level but now we just add the target as well because we need to know how we 
    acheive the target and lag behind the target 
- - Here I attach the market level performance with the target 
+ - Here I attach the market level performance with the target https://github.com/ThavaZ-9798/Atliq-Finanace-and-sales-analytics-using-excel/blob/main/market%20performance%20vs%20target.pdf
 
 ## Finance analytics
- - Create a Profit and loss report for the fiscal year
- - Another report for the profit and loss for the fiscal months here is the report just go through it
+ - Create a Profit and loss report for the fiscal year https://github.com/ThavaZ-9798/Atliq-Finanace-and-sales-analytics-using-excel/blob/main/P%26L%20By%20fiscal%20year.pdf
+ - Another report for the profit and loss for the fiscal months here is the report just go through it https://github.com/ThavaZ-9798/Atliq-Finanace-and-sales-analytics-using-excel/blob/main/P%26L%20%20By%20months.pdf
  - The purpose of analyze the finance data is make sure the financial performance , decision making for the stake holders
  - From the finance analysis it is easily help ful for the bench marking aganist the industry and for the forecasting budgeting
  - **Role of reports :** Align financial planning with startegic goals instill confidence in the organization financial look
